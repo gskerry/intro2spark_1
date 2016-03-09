@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 09 02:26:40 UTC 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0153-5932-9501-000035e1b378 
+on database directory /vagrant/data_sci/spark/_repos/intro_1/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@10740b44 
+Loaded from file:/home/installs/spark-1.6.0-bin-hadoop2.6/lib/spark-assembly-1.6.0-hadoop2.6.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_95-b00
+user.dir=/vagrant/data_sci/spark/_repos/intro_1
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-67-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
